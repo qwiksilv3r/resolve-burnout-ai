@@ -2,19 +2,25 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+## 🚀 Run Locally
+
+Clone the project:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+git clone https://github.com/YOUR_USERNAME/resolve-burnout-ai.git
+cd resolve-burnout-ai
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+Open in browser:
+
+http://localhost:3000
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
